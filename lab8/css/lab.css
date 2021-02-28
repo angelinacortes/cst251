@@ -1,0 +1,60 @@
+body {
+    font-family: Arial,Times New Roman "san serif";
+    background-color: black;
+    padding: 20px;
+    font-size: 120%;
+    margin: 10px;
+}
+
+div#content {
+    padding: 20px;
+    background-color: #bacbda;
+    border: solid 2px #333333;
+    border-radius: 5px;
+    height: 56vh;
+}
+
+h1 {
+    font-family: "Times New Roman", monospace;
+    color: white;
+}
+
+div.img {
+    float: right;
+    width: 350px;
+    height: 466.66px;
+    border: dotted 5px white;
+    background-color: black
+}
+
+img {
+  margin-right: 40px
+}
+
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+/* I got this code from: https://success.appen.com/hc/en-us/articles/202703155-CSS-Guide-to-Enlarge-Images-on-Hover */
+
+p {
+    color: black;
+}
+
+p.callout{
+  color: #626264
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+}
