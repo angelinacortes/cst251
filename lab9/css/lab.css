@@ -3,11 +3,11 @@ body {
     background-color: black;
     padding: 20px;
     font-size: 120%;
-    margin: 20px;
+    margin: 30px;
 }
 
 div#content {
-    padding: 20px;
+    padding: 30px;
     background-color: #d2d8e8;
     border: solid 5px white;
     border-radius: 5px;
