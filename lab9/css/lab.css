@@ -1,0 +1,34 @@
+body {
+    font-family: Arial,Times New Roman "san serif";
+    background-color: black;
+    padding: 20px;
+    font-size: 120%;
+    margin: 20px;
+}
+
+div#content {
+    padding: 20px;
+    background-color: #d2d8e8;
+    border: solid 5px white;
+    border-radius: 5px;
+    height: 80vh;
+}
+
+h1 {
+    font-family: "Times New Roman", monospace;
+}
+
+img {
+    float: right;
+    width: 500px;
+    height: auto;
+    border: solid 5px white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    text-decoration: underline;
+}
