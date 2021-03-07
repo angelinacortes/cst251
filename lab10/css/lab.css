@@ -1,0 +1,37 @@
+body {
+    font-family: Times, Arial "san serif";
+    background-color: white;
+    padding: 20px;
+    font-size: 120%;
+    margin: 30px;
+}
+
+div#content {
+    font-family: Times, Arial;
+    padding: 30px;
+    background-color: #ffecef;
+    border: double 9px grey;
+    height: 80vh;
+    color: grey;
+}
+
+h1 {
+    font-family: "Courier", monospace;
+    color: grey;
+}
+
+img {
+    float: right;
+    width: 400px;
+    height: auto;
+    border: double 10px white;
+}
+
+a {
+    text-decoration: none;
+    font-family: Courier, Arial;
+    color: grey;
+}
+a:hover {
+    text-decoration: underline;
+}
