@@ -1,0 +1,60 @@
+body {
+    font-family: Times, Arial "san serif";
+    background-color: #f4dbff;
+    padding: 20px;
+    font-size: 120%;
+    margin: 30px;
+}
+
+main#content {
+    font-family: Times, Arial;
+    padding: 30px;
+    background-color: #dcdcdc;
+    border: double 9px black;
+    height: 80vh;
+    color: black;
+}
+
+aside#sidebar {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    background-color: white;
+    border: solid 2px black;
+}
+/* I got this CSS from: https://www.w3schools.com/TAGS/tag_aside.asp */
+
+p.special {
+    display: inline-block;
+    min-width: 300px;
+}
+
+img {
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 320px;
+    width: 700px;
+    height: auto;
+    border: solid 1px black;
+}
+
+div.sticky {
+  position: sticky;
+  top: 0px;
+}
+
+h1 {
+    font-family: "Courier", monospace;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    font-family: Courier, Arial;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+}
