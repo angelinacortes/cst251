@@ -1,0 +1,51 @@
+body {
+    font-family: Times, Arial "san serif";
+    background-color: white;
+    padding: 10px;
+    font-size: 120%;
+    margin: 20px;
+}
+
+header {
+  border: solid 2px black;
+  background-color: #eac0ffa6;
+}
+
+main {
+    font-family: Times, Arial;
+    padding: 30px;
+    background-color: #eac0ffa6;
+    border: solid 2px black;
+    height: 40vh;
+    color: black;
+}
+
+nav {
+  border: solid 2px black;
+  background-color: #eac0ffa6;
+}
+
+aside {
+  border: solid 2px black;
+  background-color: #eac0ffa6;
+}
+
+footer {
+  border: solid 2px black;
+  background-color: #eac0ffa6;
+}
+
+h2 {
+    font-family: "Times", monospace;
+    color: black;
+}
+
+
+a {
+    text-decoration: none;
+    font-family: Times, Arial;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+}
