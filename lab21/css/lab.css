@@ -1,0 +1,54 @@
+body {
+    font-family: Times, Arial "san serif";
+    background-color: grey;
+    font-size: 120%;
+    margin: 30px;
+    background-color: #e91e63c7;
+}
+
+nav {
+  margin-top: 240px;
+}
+
+div.container {
+    font-family: Times, Arial;
+    margin-top: 40px;
+    padding: 40px;
+    background-color: #00000036;
+    border: solid 3px white;
+    height: 50%;
+    text-align: center;
+    color: white;
+}
+
+
+aside.image {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.box {
+  width: 40%;
+  height: 350px;
+}
+
+h2 {
+    font-family: "Times", monospace;
+    text-shadow: 0 -1px 0 black, 1px 0 0 black, 0 1px 0 black, -1px 0 0 black;
+    color: white;
+    text-align: center;
+    font-size: 120%;
+}
+
+a {
+    text-decoration: none;
+    font-family: Times, Arial;
+    text-shadow: 0 -1px 0 black, 1px 0 0 black, 0 1px 0 black, -1px 0 0 black;
+    color: white;
+    font-size: 140%;
+}
+a:hover {
+    text-decoration: underline;
+}
